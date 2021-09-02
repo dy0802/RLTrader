@@ -1,0 +1,9 @@
+Loaded backend TkAgg version unknown.
+Loaded backend agg version unknown.
+From C:\Users\Yonsei\anaconda3\envs\rltrader\lib\site-packages\tensorflow_core\python\keras\initializers.py:143: calling RandomNormal.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+From C:\Users\Yonsei\anaconda3\envs\rltrader\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+[000080] RL:dqn Net:cnn LR:0.001 DF:0.9 TU:[4,47] DRT:0.05

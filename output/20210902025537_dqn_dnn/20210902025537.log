@@ -1,0 +1,2 @@
+From C:\Users\Yonsei\Desktop\RLTrader\networks.py:21: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
